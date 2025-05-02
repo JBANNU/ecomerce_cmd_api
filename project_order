@@ -1,0 +1,18 @@
+1.welcome banner 											--done
+2.login through sql											--
+3.if credentilas correct,display date and last logged in
+4. display the menu
+	a.types(3)												-done
+	b.remaning stock										-done
+	c.orderd-details										-done
+	d.helpful-contacts(avialible or not)
+5.from types
+	a.show details of varieties								-done
+	b.show name,price										-done
+	c.quantity remianing along with color					-done
+	d.photo to be displayed side
+6.ordered-details
+	a.customer id,name,mobile,quantity,actual amount paid, orginal amount -done
+	b.quantity should be detucted from remaining stock					  -done
+7.helpful contatcts
+	a.drivers along with mobile number						-done

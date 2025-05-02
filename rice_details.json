@@ -1,0 +1,226 @@
+[
+  {
+    "name": "venu(blue)",
+    "type": "bpt_steam",
+    "price": 1150,
+    "count": 9,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "murali(blue)",
+    "type": "bpt_steam",
+    "price": 1150,
+    "count": 20,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "jasmine",
+    "type": "bpt_steam",
+    "price": 1300,
+    "count": 8,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "sharmaji",
+    "type": "bpt_raw",
+    "price": 1300,
+    "count": 13,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "suraj(orange)",
+    "type": "bpt_raw",
+    "price": 1300,
+    "count": 2,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "shubham",
+    "type": "bpt_raw",
+    "price": 1200,
+    "count": 18,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "lg(orange)",
+    "type": "hmt_raw",
+    "price": 1500,
+    "count": 24,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "rk(pink)",
+    "type": "hmt_raw",
+    "price": 1550,
+    "count": 11,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "murali(red)",
+    "type": "hmt_raw",
+    "price": 1550,
+    "count": 1,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "murali(red-2 yrs old)",
+    "type": "hmt_raw",
+    "price": 1750,
+    "count": 1,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "gajaraj(green) new",
+    "type": "hmt_raw",
+    "price": 1150,
+    "count": 14,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "murali(yellowish)*",
+    "type": "hmt_steam",
+    "price": 1350,
+    "count": 0,
+    "status": "\u001b[0;31;40mout of stock\u001b[0;37;40m"
+  },
+  {
+    "name": "rk(pinkish)",
+    "type": "hmt_steam",
+    "price": 1350,
+    "count": 2,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "kcp(dark_blue)",
+    "type": "hmt_steam",
+    "price": 1250,
+    "count": 23,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "best_hmt(red)",
+    "type": "hmt_steam",
+    "price": 1350,
+    "count": 5,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "venu-gold(yellow)",
+    "type": "hmt_steam",
+    "price": 1350,
+    "count": 10,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "vyshnavi(red)",
+    "type": "hmt_steam",
+    "price": 1250,
+    "count": 5,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "gokul",
+    "type": "jsr_raw",
+    "price": 1750,
+    "count": 13,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "murali(gold)",
+    "type": "jsr_raw",
+    "price": 1800,
+    "count": 7,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "rk(blue)",
+    "type": "jsr_raw",
+    "price": 1750,
+    "count": 3,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "jsr-new*",
+    "type": "jsr_raw",
+    "price": 1300,
+    "count": 15,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "murali(blue)",
+    "type": "jsr_steam",
+    "price": 1750,
+    "count": 14,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "kurnool",
+    "type": "bpt_raw",
+    "price": 1150,
+    "count": 6,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "gokul(green)",
+    "type": "broken",
+    "price": 800,
+    "count": 26,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "rk(orange-shine)",
+    "type": "bpt_steam",
+    "price": 1150,
+    "count": 24,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "jsr",
+    "type": "pelakadi",
+    "price": 1250,
+    "count": 4,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "gajaraj(green)",
+    "type": "pelakadi",
+    "price": 1250,
+    "count": 2,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "murali(red) old",
+    "type": "jsr_steam",
+    "price": 1750,
+    "count": 1,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "murali(red) new",
+    "type": "jsr_steam",
+    "price": 1550,
+    "count": 7,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "Rk yellow",
+    "type": "pelakadi",
+    "price": 1250,
+    "count": 12,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "kurnool (red)",
+    "type": "pelakadi",
+    "price": 900,
+    "count": 29,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  },
+  {
+    "name": "jsr_old",
+    "type": "jsr_raw",
+    "price": 1550,
+    "count": 29,
+    "status": "\u001b[0;32;40mavaliable\u001b[0;37;40m"
+  }
+]

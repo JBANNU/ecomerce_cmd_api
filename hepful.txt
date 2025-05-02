@@ -1,0 +1,3 @@
+NAME        NUMBER      AVALIABLITY 
+auto        879067      yes
+car         87098       no
